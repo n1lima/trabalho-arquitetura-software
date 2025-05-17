@@ -26,7 +26,7 @@
           <mxGeometry x="495" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FINfKCtUxd_uSoYgE0Up-13" value="Requisição&amp;nbsp;&lt;div&gt;HTTP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="90" height="40" as="geometry" />
+          <mxGeometry x="550" y="130" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FINfKCtUxd_uSoYgE0Up-14" value="Banco de&lt;div&gt;Dados&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="524" y="540" width="60" height="80" as="geometry" />
